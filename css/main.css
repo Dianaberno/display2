@@ -1,0 +1,23 @@
+span{
+    color-interpolation-filters:yellow;
+}
+ul{
+    background-color: black;
+}
+ul{
+    display:block;
+    padding: 20px;
+    list-style: none;
+    
+    
+}
+a:hover{
+    color: green;
+}
+span{
+    color: red;
+    margin: 0 100px;
+}
+a{
+    text-decoration:none;
+}
